@@ -17,8 +17,8 @@ Contact Manager is a simple desktop application built with Python and Tkinter th
 ## Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/contact-manager.git
+   ```bash 
+   git clone https://github.com/adermgram/PRODIGY_SD_03.git
    ```
 
 ## Run main.py
